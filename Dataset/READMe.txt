@@ -1,1 +1,1 @@
-Copy of the csv file used for training and testing the models. 
+Jupyter notebooks for dataset preparation, preprocessing, and feature engineering. 
