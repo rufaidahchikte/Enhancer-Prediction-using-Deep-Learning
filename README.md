@@ -106,9 +106,6 @@ Performance highlights:
 ## Limitations
 
 - Highly imbalanced tissue labels reduce model sensitivity.  
-- Sequence-only features miss important chromatin context.  
-- 3-mer tokenization may be too shallow for complex enhancer logic.  
-- Fixed input length restricts modeling of long-range interactions.  
 - Multi-task learning may underweight tissue prediction.
 
 ---
